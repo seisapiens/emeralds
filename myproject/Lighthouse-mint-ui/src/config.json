@@ -1,0 +1,37 @@
+{
+    "name":"Sei Emeralds",
+    "description":"A cascade of 99 Emeralds has arrived at $SEI.",
+    "website":"",
+    "twitter":"https://twitter.com/Sei_Emeralds",
+    "discord":"https://t.co/RHQFqk2xuO",
+    "rpc":"https://sei-rpc.polkachu.com/",
+    "network":"pacific-1", 
+    "collection_address":"sei1a845gf3zuz49lkkuzt25yr4vvjzw39ft5sr9zx3q3q4djzjz7p4sypjz3e", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"Team",
+            "allowlist":[
+            
+                    "sei1wmuwq63et7dc5rqzvn08sfeqyjyc0cnuf0r88w"
+                
+            ] 
+        },
+        {
+            "name":"OG",
+            "allowlist":[
+                "sei1wmuwq63et7dc5rqzvn08sfeqyjyc0cnuf0r88w"
+            ] 
+        },
+
+        {
+            "name":"Whitelist",
+            "allowlist":[
+                "sei1wmuwq63et7dc5rqzvn08sfeqyjyc0cnuf0r88w"
+            ] 
+        },
+        {
+            "name":"Public"
+        }
+    ]
+}
